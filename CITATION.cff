@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Walsky"
+  given-names: "Tamara"
+  orcid: "https://orcid.org/0000-0002-3889-4404"
+- family-names: "Yiannas"
+  given-names: "Frank"
+  orcid: "https://orcid.org/0009-0000-8000-4703"
+- family-names: "Wiedmann"
+  given-names: "Martin"
+  orcid: "https://orcid.org/0000-0002-4168-5662"
+- family-names: "Resendiz-Moctezuma"
+  given-names: "Cristina"
+  orcid: "https://orcid.org/0009-0004-9271-9932"
+title: "CEA_Nutrient_Solution"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2026-09-28
+url: "https://github.com/tamardigrade/CEA_Nutrient_Solution"
